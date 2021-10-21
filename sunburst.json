@@ -60,11 +60,9 @@
         {
           "name": "Fiber",
           "size": 1732
-          }
-          ]
         }
-        ]
-      },
+      ]
+    },
         {
           "name": "Non-essentials",
           "children": [
@@ -77,6 +75,8 @@
           "size": 10066
         }
       ]
+    }
+    ]
     },
     {
       "name": "Hydration",
