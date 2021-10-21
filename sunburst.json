@@ -45,15 +45,6 @@
               "size": 743
             }
           ]
-        },
-        {
-          "name": "optimization",
-          "children": [
-            {
-              "name": "AspectRatioBanker",
-              "size": 7074
-            }
-          ]
         }
       ]
     },
