@@ -47,19 +47,19 @@
               "children": [
         {
           "name": "Protein",
-          "size": 8833
+          "size": 10000
         },
         {
           "name": "Carbs",
-          "size": 1732
+          "size": 10000
          },
         {
           "name": "Fat",
-          "size": 1732
+          "size": 10000
          },
         {
           "name": "Fiber",
-          "size": 1732
+          "size": 10000
         }
       ]
     },
@@ -67,17 +67,25 @@
           "name": "Non-essentials",
           "children": [
         {
-          "name": "Fat",
-          "size": 3623
+          "name": "Vitamins",
+          "size": 5000
         },
         {
-          "name": "Fiber",
-          "size": 10066
+          "name": "Add",
+          "size": 5000
+        },
+        {
+          "name": "add",
+          "size": 5000
+        },
+        {
+          "name": "add",
+          "size": 5000
         }
       ]
     }
-    ]
-    },
+  ]
+},
     {
       "name": "Hydration",
       "children": [
