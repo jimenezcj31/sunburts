@@ -40,21 +40,34 @@
         ]
         },
     {
-      "name": "Nutrition",
-      "children": [
+  "name": "Nutrition",
+  "children": [
          {
-           "name": "distortion",
+           "name": "Essentials",
               "children": [
-                {
-          "name": "Essentials",
-          "size": 8833
-        }
-        ]
-        },
         {
           "name": "Protein",
-          "size": 1732
+          "size": 8833
         },
+        {
+          "name": "Carbs",
+          "size": 1732
+         },
+        {
+          "name": "Fat",
+          "size": 1732
+         },
+        {
+          "name": "Fiber",
+          "size": 1732
+          }
+          ]
+        }
+        ]
+      },
+        {
+          "name": "Non-essentials",
+          "children": [
         {
           "name": "Fat",
           "size": 3623
