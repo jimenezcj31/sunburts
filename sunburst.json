@@ -9,11 +9,11 @@
           "children": [
             {
               "name": "Total sleep",
-              "size": 3938
+              "size": 6714
             },
             {
               "name": "Efficiency",
-              "size": 3812
+              "size": 6714
             },
             {
               "name": "REM sleep",
@@ -33,7 +33,7 @@
             },
             {
               "name": "Deep sleep",
-              "size": 743
+              "size": 6714
             }
           ]
         }
