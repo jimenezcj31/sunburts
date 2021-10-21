@@ -99,8 +99,16 @@
       "name": "Passive recovery",
       "children": [
         {
-          "name": "Stretch",
-          "size": 1082
+          "name": "Manual therapy",
+          "children": [
+    {
+          "name": "Fascial stretch therapy",
+          "size": 1336
+        }
+            
+            
+            
+            ]
         },
         {
           "name": "GravityForce",
