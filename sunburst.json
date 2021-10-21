@@ -1,5 +1,5 @@
 {
-  "name": "flare",
+  "name": "Recovery menu",
   "children": [
     {
       "name": "Sleep",
@@ -11,6 +11,15 @@
               "name": "Total sleep",
               "size": 3938
             },
+            {
+              "name": "render",
+              "children": [
+                {
+                  "name": "ArrowType",
+                  "size": 698
+                  }
+                ]
+              },
             {
               "name": "Efficiency",
               "size": 3812
@@ -28,7 +37,7 @@
               "size": 6714
             },
             {
-              "name": "Restful",
+              "name": "Restfullness",
               "size": 6714
             },
             {
@@ -56,21 +65,21 @@
           "size": 8833
         },
         {
-          "name": "LineSprite",
+          "name": "Protein",
           "size": 1732
         },
         {
-          "name": "RectSprite",
+          "name": "Fat",
           "size": 3623
         },
         {
-          "name": "TextSprite",
+          "name": "Fiber",
           "size": 10066
         }
       ]
     },
     {
-      "name": "flex",
+      "name": "Hydration",
       "children": [
         {
           "name": "FlareVis",
@@ -79,10 +88,10 @@
       ]
     },
     {
-      "name": "physics",
+      "name": "Passive recovery",
       "children": [
         {
-          "name": "DragForce",
+          "name": "Stretch",
           "size": 1082
         },
         {
@@ -116,7 +125,7 @@
       ]
     },
     {
-      "name": "query",
+      "name": "Active recovery",
       "children": [
         {
           "name": "AggregateExpression",
@@ -366,7 +375,7 @@
       ]
     },
     {
-      "name": "scale",
+      "name": "Training plan",
       "children": [
         {
           "name": "IScaleMap",
