@@ -12,15 +12,6 @@
               "size": 3938
             },
             {
-              "name": "render",
-              "children": [
-                {
-                  "name": "ArrowType",
-                  "size": 698
-                }
-              ]
-            },
-            {
               "name": "Efficiency",
               "size": 3812
             },
