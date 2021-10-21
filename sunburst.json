@@ -1,18 +1,42 @@
 {
- "name": "flare",
- "children": [
-  {
-   "name": "analytics",
-   "children": [
+  "name": "flare",
+  "children": [
     {
-     "name": "cluster",
-     "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
-     ]
-    },
+      "name": "Sleep",
+      "children": [
+        {
+          "name": "Sleep Hygiene",
+          "children": [
+            {
+              "name": "Total sleep",
+              "size": 3938
+            },
+            {
+              "name": "Efficiency",
+              "size": 3812
+            },
+            {
+              "name": "REM sleep",
+              "size": 6714
+            },
+            {
+              "name": "Latency",
+              "size": 6714
+            },
+            {
+              "name": "Timing",
+              "size": 6714
+            },
+            {
+              "name": "Restfullness",
+              "size": 6714
+            },
+            {
+              "name": "Deep sleep",
+              "size": 743
+            }
+          ]
+        },,
     {
      "name": "graph",
      "children": [
