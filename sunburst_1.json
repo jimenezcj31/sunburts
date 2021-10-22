@@ -1,41 +1,37 @@
 {
-  "name": "Recovery menu",
+  "name": "Discover your recovery status",
   "children": [
     {
-      "name": "Sleep",
+      "name": "Sleep excellent",
       "children": [
-        {
-          "name": "Sleep Hygiene",
-          "children": [
+        
             {
-              "name": "Total sleep",
+              "name": "Total sleep ~ 8 hours of sleep",
               "size": 6714
             },
             {
-              "name": "Efficiency",
+              "name": "Efficiency: the percentage of time we spend asleep while in bed",
               "size": 6714
             },
             {
-              "name": "REM sleep",
+              "name": "REM sleep:Rapid eye movement sleep is a unique phase of sleep in mammals and birds, characterized by random rapid movement of the eyes, accompanied by low muscle tone throughout the body, and the propensity of the sleeper to dream vividly. 20 to 25 percent of total sleep",
               "size": 6714
             },
             {
-              "name": "Latency",
+              "name": "Latency - the time it takes a person to fall asleep after turning the lights out. 10 to 20 minutes",
               "size": 6714
             },
             {
-              "name": "Timing",
+              "name": "Timing: its crucial component and should be as close as to the previous night.",
               "size": 6714
             },
             {
-              "name": "Restfullness",
+              "name": "Restfullness: Keep up the good work. Restfulness from sleep may be associated with the lower risk of myocardial infarction, angina pectoris, stroke, heart failure, and atrial fibrillation.",
               "size": 6714
             },
             {
-              "name": "Deep sleep",
+              "name": "Deep sleep: Initially, SWS consisted of both Stage 3, which has 20–50 percent delta wave activity, and Stage 4, which has more than 50 percent delta wave activity. Glucose metabolism in the brain increases during deep sleep, supporting short-term and long-term memory and overall learning.Deep sleep is also when the pituitary gland secretes important hormones, like human growth hormone, leading to growth and development of the body.",
               "size": 6714
-            }
-          ]
         }
         ]
   },
