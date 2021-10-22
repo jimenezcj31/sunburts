@@ -40,9 +40,9 @@
         ]
         },
     {
-  "name": "Nutrition",
-  "children": [
-         {
+      "name": "Nutrition",
+      "children": [
+        {
            "name": "Essentials",
               "children": [
         {
@@ -83,33 +83,38 @@
           "size": 5000
         }
       ]
-    }
-  ]
-},
+    },
     {
       "name": "Hydration",
       "children": [
         {
+          "name": "Water",
+          "size": 4116
+        },
+          {
           "name": "FlareVis",
           "size": 4116
         }
       ]
-    },
+     }
+    ]
+  },
     {
       "name": "Passive recovery",
       "children": [
         {
           "name": "Manual therapy",
           "children": [
-    {
+        {
           "name": "Fascial stretch therapy",
           "size": 1336
-        }
-            
-            
-            
-            ]
         },
+        {
+          "name": "",
+          "size": 2822
+        }
+      ]
+    },
         {
           "name": "GravityForce",
           "size": 1336
