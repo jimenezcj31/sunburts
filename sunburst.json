@@ -136,8 +136,22 @@
           "size": 2000
           }
         ]
-      }
+      },
+      
+      {
+          "name": "Hydro",
+          "children": [
+        {
+          "name": "Cold water immersion",
+          "size": 2000
+        },
+        {
+          "name": "Hot water immersion",
+          "size": 2000
+        }
     ]
+  }
+  ]
   },
     {
       "name": "Active recovery",
