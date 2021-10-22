@@ -2,7 +2,7 @@
   "name": "Exercise recovery status",
   "children": [
     {
-      "name": "Excellent Sleep",
+      "name": "Sleep",
       "children": [
         {
       "name": "Excellent Sleep",
@@ -37,8 +37,8 @@
             }
           ]
         }
-        ]
-        },
+      ]
+    },
             {
              "name": "Poor sleep",
               "children": [
