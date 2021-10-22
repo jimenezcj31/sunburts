@@ -1,0 +1,241 @@
+{
+  "name": "Recovery menu",
+  "children": [
+    {
+      "name": "Sleep",
+      "children": [
+        {
+          "name": "Sleep Hygiene",
+          "children": [
+            {
+              "name": "Total sleep",
+              "size": 6714
+            },
+            {
+              "name": "Efficiency",
+              "size": 6714
+            },
+            {
+              "name": "REM sleep",
+              "size": 6714
+            },
+            {
+              "name": "Latency",
+              "size": 6714
+            },
+            {
+              "name": "Timing",
+              "size": 6714
+            },
+            {
+              "name": "Restfullness",
+              "size": 6714
+            },
+            {
+              "name": "Deep sleep",
+              "size": 6714
+            }
+          ]
+        }
+        ]
+  },
+    {
+      "name": "Nutrition",
+      "children": [
+        {
+           "name": "Essentials",
+              "children": [
+        {
+          "name": "Protein",
+          "size": 10000
+        },
+        {
+          "name": "Carbs",
+          "size": 10000
+         },
+        {
+          "name": "Fat",
+          "size": 10000
+         },
+        {
+          "name": "Fiber",
+          "size": 10000
+        }
+      ]
+    },
+        {
+          "name": "Non-essentials",
+          "children": [
+        {
+          "name": "Vitamins",
+          "size": 5000
+        },
+        {
+          "name": "Add",
+          "size": 5000
+        },
+        {
+          "name": "add",
+          "size": 5000
+        },
+        {
+          "name": "add",
+          "size": 5000
+        }
+      ]
+    },
+    {
+      "name": "Hydration",
+      "children": [
+        {
+          "name": "Water",
+          "size": 4116
+        },
+          {
+          "name": "Gatorade/powerade",
+          "size": 4116
+        }
+      ]
+     }
+    ]
+  },
+    {
+      "name": "Passive recovery",
+      "children": [
+        {
+          "name": "Manual therapy",
+          "size": 2000
+        },
+        {
+          "name": "Passive stretch",
+          "size": 2000
+        },
+        {
+          "name": "Whole body cryo",
+          "size": 2000
+        },
+         {
+          "name": "Hyperbaric O2",
+          "size": 2000
+        },
+        {
+          "name": "Neuromuscular electrical stim",
+          "size": 2000
+        },
+        {
+          "name": "Percussive",
+          "children": [
+        {
+          "name": "Hypervolt",
+          "size": 2000
+         }
+       ]
+    },
+        {
+          "name": "Intermittent pneumatic compression",
+          "children": [
+        {
+          "name": "Normatec",
+          "size": 2000
+         }
+      ]
+    },
+        {
+          "name": "Compression garment",
+          "children": [
+        {
+          "name": "2XU",
+          "size": 2000
+          }
+        ]
+      },
+        {
+          "name": "Vibration - foam roller",
+          "children": [
+        {
+          "name": "Vyper go",
+          "size": 2000
+          }
+        ]
+      },
+      
+      {
+          "name": "Hydro",
+          "children": [
+        {
+          "name": "Cold water immersion",
+          "size": 2000
+        },
+        {
+          "name": "Hot water immersion",
+          "size": 2000
+        },
+        {
+          "name": "Contrast bath",
+          "size": 2000
+        }
+    ]
+  }
+  ]
+  },
+    {
+      "name": "Active recovery",
+      "children": [
+        {
+          "name": "Cycle",
+          "size": 2000
+        },
+        {
+          "name": "Pool",
+          "size": 2000
+        },
+        {
+          "name": "Walking",
+          "size": 2000
+        },
+        {
+          "name": "Jogging",
+          "size": 2000
+        },
+        {
+          "name": "Stretching",
+          "size": 2000
+        },
+        {
+          "name": "Light gym session",
+          "size": 2000
+        }
+      ]
+  },
+    {
+      "name": "Training plan",
+      "children": [
+        {
+          "name": "Linear Periodization",
+          "size": 2000
+        },
+        {
+          "name": "Undulating Periodization",
+          "size": 2000
+        },
+        {
+          "name": "Block Periodization",
+          "size": 2000
+        },
+        {
+          "name": "Conjugate Periodization",
+          "size": 2000
+        }
+      ]
+    },
+    {
+      "name": "Mindfulness",
+      "children": [
+        {
+          "name": "Guided meditation",
+          "size": 2105
+        }
+      ]
+    }
+  ]
+}
