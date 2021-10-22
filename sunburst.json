@@ -108,23 +108,32 @@
         },
         {
           "name": "Passive stretch",
-          "size": 1336
+          "size": 2000
         },
         {
           "name": "Foam roller",
-          "size": 2822
+          "size": 2000
         },
         {
           "name": "Percussive",
           "children": [
-            {
+        {
           "name": "Hypervolt",
-          "size": 2822
-            }
-          ]
-        }
-        ]
+          "size": 2000
         },
+        {
+          "name": "Intermittent pneumatic compression (IPC) ",
+          "children": [
+        {
+          "name": "Normatec",
+          "size": 2000
+          }
+        ]
+      }
+    ]
+  }
+ ]
+},
     {
       "name": "Active recovery",
       "children": [
