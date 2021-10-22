@@ -111,6 +111,18 @@
           "size": 2000
         },
         {
+          "name": "Whole body cryo",
+          "size": 2000
+        },
+         {
+          "name": "Hyperbaric O2",
+          "size": 2000
+        },
+        {
+          "name": "Neuromuscular electrical stim",
+          "size": 2000
+        },
+        {
           "name": "Percussive",
           "children": [
         {
@@ -128,6 +140,15 @@
          }
       ]
     },
+    {
+          "name": "Compression garment",
+          "children": [
+        {
+          "name": "2XU",
+          "size": 2000
+          }
+        ]
+      },
         {
           "name": "Vibration - foam roller",
           "children": [
