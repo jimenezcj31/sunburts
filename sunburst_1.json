@@ -37,8 +37,13 @@
             {
              "name": "Poor sleep",
               "children": [
-               
+                
+               {
+              "name": "Total sleep < 8 hours of sleep",
+              "size": 2000
+            }
       ]
+      
     }        
    ]
   },
