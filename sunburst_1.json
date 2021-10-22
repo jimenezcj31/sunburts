@@ -32,7 +32,8 @@
             {
               "name": "Deep sleep: 45 to 90 minutes.",
               "size": 2000
-            
+            }
+            ]
             },
             {
              "name": "Poor sleep",
@@ -41,8 +42,8 @@
                {
               "name": "Total sleep < 8 hours of sleep",
               "size": 2000
-            }
-      ]
+            
+      
       
     }        
    ]
