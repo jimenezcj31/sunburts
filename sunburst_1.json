@@ -36,9 +36,7 @@
               "size": 2000
             }
           ]
-        }
-      ]
-    },
+        },
             {
              "name": "Poor sleep",
               "children": [
@@ -47,6 +45,8 @@
               "size": 2000
              }        
            ]
+         }
+         ]
          },
     {
       "name": "Nutrition",
