@@ -120,6 +120,8 @@
         {
           "name": "Hypervolt",
           "size": 2000
+        }
+        ]
         },
         {
           "name": "Intermittent pneumatic compression (IPC) ",
@@ -131,9 +133,7 @@
         ]
       }
     ]
-  }
- ]
-},
+  },
     {
       "name": "Active recovery",
       "children": [
