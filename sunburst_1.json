@@ -4,7 +4,9 @@
     {
       "name": "Excellent Sleep",
       "children": [
-        
+        {
+      "name": "Excellent Sleep",
+      "children": [
             {
               "name": "Total sleep ~ 8 hours of sleep",
               "size": 2000
@@ -34,6 +36,8 @@
               "size": 2000
             }
           ]
+        }
+        ]
         },
             {
              "name": "Poor sleep",
