@@ -120,7 +120,7 @@
        ]
     },
         {
-          "name": "Intermittent compression",
+          "name": "Intermittent pneumatic compression",
           "children": [
         {
           "name": "Normatec",
@@ -147,6 +147,10 @@
         },
         {
           "name": "Hot water immersion",
+          "size": 2000
+        },
+        {
+          "name": "Contrast bath",
           "size": 2000
         }
     ]
