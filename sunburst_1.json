@@ -43,11 +43,35 @@
                {
               "name": "Total sleep < 8 hours of sleep",
               "size": 2000
-             }        
+            },
+            {
+              "name": "Efficiency: the % of time we spend asleep while in bed",
+              "size": 2000
+            },
+            {
+              "name": "REM sleep: 20 to 25 % of total sleep",
+              "size": 2000
+            },
+            {
+              "name": "Latency: ~ 10 to 20 minutes",
+              "size": 2000
+            },
+            {
+              "name": "Timing: sleep same time every night",
+              "size": 2000
+            },
+            {
+              "name": "Restfullness: Waking up sporadically through the night",
+              "size": 2000
+            },
+            {
+              "name": "Deep sleep: 45 to 90 minutes.",
+              "size": 2000
+            }
            ]
          }
-         ]
-         },
+        ]
+      },
     {
       "name": "Nutrition",
       "children": [
