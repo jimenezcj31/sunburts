@@ -7,31 +7,31 @@
         
             {
               "name": "Total sleep ~ 8 hours of sleep",
-              "size": 50000
+              "size": 2000
             },
             {
-              "name": "Efficiency: the percentage of time we spend asleep while in bed",
-              "size": 50000
+              "name": "Efficiency: the % of time we spend asleep while in bed",
+              "size": 2000
             },
             {
-              "name": "REM sleep:Rapid eye movement sleep is a unique phase of sleep in mammals and birds, characterized by random rapid movement of the eyes, accompanied by low muscle tone throughout the body, and the propensity of the sleeper to dream vividly. 20 to 25 percent of total sleep",
-              "size": 50000
+              "name": "REM sleep: 20 to 25 % of total sleep",
+              "size": 2000
             },
             {
-              "name": "Latency - the time it takes a person to fall asleep after turning the lights out. 10 to 20 minutes",
-              "size": 50000
+              "name": "Latency: ~ 10 to 20 minutes",
+              "size": 2000
             },
             {
-              "name": "Timing: its crucial component and should be as close as to the previous night.",
-              "size": 50000
+              "name": "Timing: sleep same time every night",
+              "size": 2000
             },
             {
-              "name": "Restfullness: Keep up the good work. Restfulness from sleep may be associated with the lower risk of myocardial infarction, angina pectoris, stroke, heart failure, and atrial fibrillation.",
-              "size": 50000
+              "name": "Restfullness: Waking up sporadically through the night",
+              "size": 2000
             },
             {
-              "name": "Deep sleep: Initially, SWS consisted of both Stage 3, which has 20–50 percent delta wave activity, and Stage 4, which has more than 50 percent delta wave activity. Glucose metabolism in the brain increases during deep sleep, supporting short-term and long-term memory and overall learning.Deep sleep is also when the pituitary gland secretes important hormones, like human growth hormone, leading to growth and development of the body.",
-              "size": 50000
+              "name": "Deep sleep: 45 to 90 minutes.",
+              "size": 2000
         }
         ]
   },
