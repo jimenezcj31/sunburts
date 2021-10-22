@@ -211,44 +211,20 @@
       "name": "Training plan",
       "children": [
         {
-          "name": "IScaleMap",
-          "size": 2105
+          "name": "Linear Periodization",
+          "size": 2000
         },
         {
-          "name": "LinearScale",
-          "size": 1316
+          "name": "Undulating Periodization",
+          "size": 2000
         },
         {
-          "name": "LogScale",
-          "size": 3151
+          "name": "Block Periodization",
+          "size": 2000
         },
         {
-          "name": "OrdinalScale",
-          "size": 3770
-        },
-        {
-          "name": "QuantileScale",
-          "size": 2435
-        },
-        {
-          "name": "QuantitativeScale",
-          "size": 4839
-        },
-        {
-          "name": "RootScale",
-          "size": 1756
-        },
-        {
-          "name": "Scale",
-          "size": 4268
-        },
-        {
-          "name": "ScaleType",
-          "size": 1821
-        },
-        {
-          "name": "TimeScale",
-          "size": 5833
+          "name": "Conjugate Periodization",
+          "size": 2000
         }
       ]
     },
@@ -256,44 +232,8 @@
       "name": "Mindfulness",
       "children": [
         {
-          "name": "IScaleMap",
+          "name": "Guided meditation",
           "size": 2105
-        },
-        {
-          "name": "LinearScale",
-          "size": 1316
-        },
-        {
-          "name": "LogScale",
-          "size": 3151
-        },
-        {
-          "name": "OrdinalScale",
-          "size": 3770
-        },
-        {
-          "name": "QuantileScale",
-          "size": 2435
-        },
-        {
-          "name": "QuantitativeScale",
-          "size": 4839
-        },
-        {
-          "name": "RootScale",
-          "size": 1756
-        },
-        {
-          "name": "Scale",
-          "size": 4268
-        },
-        {
-          "name": "ScaleType",
-          "size": 1821
-        },
-        {
-          "name": "TimeScale",
-          "size": 5833
         }
       ]
     }
