@@ -210,6 +210,8 @@
           "size": 2000
                }
              ]
+           }
+           ]
            },
         {
       "name": "Active recovery",
@@ -239,9 +241,7 @@
           "size": 2000
                }
              ]
-          }
-        ]
-        },
+          },
     {
       "name": "Training plan",
       "children": [
