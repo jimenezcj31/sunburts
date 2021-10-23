@@ -1,11 +1,11 @@
 {
   "name": "Exercise recovery status",
   "children": [
-    {
+        {
       "name": "Sleep",
       "children": [
         {
-      "name": "Excellent sleep",
+      "name": "Excellent Sleep",
       "children": [
             {
               "name": "Total sleep ~ 8 hours of sleep",
@@ -37,9 +37,9 @@
             }
           ]
         },
-            {
-             "name": "Poor sleep",
-              "children": [
+        {
+      "name": "Poor sleep",
+      "children": [
                {
               "name": "Total sleep < 8 hours of sleep",
               "size": 2000
@@ -244,6 +244,9 @@
       "name": "Training plan",
       "children": [
         {
+        "name": "Structured",
+        "children": [
+        {
           "name": "Linear Periodization",
           "size": 2000
         },
@@ -261,6 +264,17 @@
         }
       ]
     },
+        {
+       "name": "Non - Structured",
+       "children": [
+        {
+          "name": "Acute:Chronic workload",
+          "size": 2000
+            }
+          ]
+        }
+       ]
+     },
     {
       "name": "Mindfulness",
       "children": [
