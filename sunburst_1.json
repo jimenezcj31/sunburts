@@ -71,7 +71,7 @@
            ]
          }
         ]
-      },
+  },
     {
       "name": "Nutrition",
       "children": [
@@ -133,6 +133,9 @@
     ]
   },
     {
+      "name": "Recovery type",
+      "children": [
+        {
       "name": "Passive recovery",
       "children": [
         {
@@ -208,8 +211,6 @@
           "size": 2000
         }
     ]
-  }
-  ]
   },
     {
       "name": "Active recovery",
@@ -274,7 +275,7 @@
           ]
         }
        ]
-     },
+  },
     {
       "name": "Mindfulness",
       "children": [
@@ -285,4 +286,8 @@
       ]
     }
   ]
+}
+]
+}
+]
 }
