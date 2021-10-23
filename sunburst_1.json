@@ -40,7 +40,7 @@
         {
       "name": "Poor sleep",
       "children": [
-               {
+            {
               "name": "Total sleep < 8 hours of sleep",
               "size": 2000
             },
@@ -69,9 +69,9 @@
               "size": 2000
             }
            ]
-         }
+          }
         ]
-  },
+      },
     {
       "name": "Nutrition",
       "children": [
@@ -195,7 +195,7 @@
         ]
       },
       
-      {
+       {
           "name": "Hydro",
           "children": [
         {
@@ -211,9 +211,8 @@
           "size": 2000
                }
              ]
-           }
-    ,
-    {
+           },
+        {
       "name": "Active recovery",
       "children": [
         {
@@ -239,13 +238,9 @@
         {
           "name": "Light gym session",
           "size": 2000
-        }
-      ]
-  }
-       ]
-       }
-     ]
-   },
+               }
+             ]
+          },
     {
       "name": "Training plan",
       "children": [
@@ -280,8 +275,8 @@
           ]
         }
        ]
-  },
-    {
+        },
+        {
       "name": "Mindfulness",
       "children": [
         {
@@ -289,7 +284,10 @@
           "size": 2105
         }
       ]
-           }
-         ]
-       }
-
+    }
+  ]
+}
+        ]
+      }
+    ]
+  }
