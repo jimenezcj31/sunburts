@@ -209,13 +209,10 @@
         {
           "name": "Contrast bath",
           "size": 2000
-        }
-    ]
-  }
-       ]
-    }
-  ]
-},
+               }
+             ]
+           }
+    ,
     {
       "name": "Active recovery",
       "children": [
@@ -244,7 +241,11 @@
           "size": 2000
         }
       ]
-  },
+  }
+       ]
+       }
+     ]
+   },
     {
       "name": "Training plan",
       "children": [
