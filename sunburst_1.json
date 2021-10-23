@@ -241,6 +241,8 @@
           "size": 2000
                }
              ]
+          }
+          ]
           },
     {
       "name": "Training plan",
@@ -274,9 +276,7 @@
           "size": 2000
             }
           ]
-        }
-       ]
-      },
+        },
         {
       "name": "Mindfulness",
       "children": [
