@@ -194,7 +194,6 @@
           }
         ]
       },
-      
        {
           "name": "Hydro",
           "children": [
@@ -240,7 +239,9 @@
           "size": 2000
                }
              ]
-          },
+          }
+        ]
+        },
     {
       "name": "Training plan",
       "children": [
@@ -275,7 +276,7 @@
           ]
         }
        ]
-        },
+      },
         {
       "name": "Mindfulness",
       "children": [
@@ -284,10 +285,9 @@
           "size": 2105
         }
       ]
-    }
-  ]
-}
+              }
+            ]
+          }
         ]
       }
-    ]
-  }
+    
